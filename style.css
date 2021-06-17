@@ -1,0 +1,39 @@
+button{
+    color: blueviolet;
+    background: burlywood;
+}
+
+#para1{
+    color:maroon;
+
+}
+#para2{
+    color: indigo;
+}
+
+.content{
+    color: saddlebrown;
+}
+
+.outer-div{
+    width: 300px;
+    height: 200px;
+    background: cadetblue;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-top: 40px;
+    border: 5px solid;
+    border-color: crimson;
+}
+
+.white{
+    color: white;
+}
+.inner-div{
+    margin: 10px;
+    background: burlywood;
+    width: 200px;
+    height: 100px;
+}
+
